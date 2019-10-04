@@ -5,6 +5,6 @@ title: Code
 
 [Bayesian conjugate gradient implementation](https://github.com/PeterHristov/xpBCG)
 
-[KrigLab (inactive)](https://httpstatus.io/)
+[KrigLab (inactive)](404.html)
 
 Stay tuned for more!
