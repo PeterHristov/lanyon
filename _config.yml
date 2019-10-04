@@ -13,6 +13,3 @@ twitter_username:    PeterHristov5
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
-
-# Custom vars
-version:             1.0.0
