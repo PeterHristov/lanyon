@@ -4,9 +4,11 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               P. O. Hristov
+author:              Peter Hristov
+email:               p.hristov2 [at] liv (dot) ac (dot) uk
+description:         Personal webpage. Views are my own.
+twitter_username:    PeterHristov5
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
