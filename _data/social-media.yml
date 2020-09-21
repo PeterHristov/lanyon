@@ -5,7 +5,8 @@ twitter:
   fa-icon: 'fa-twitter-square'
 
 linkedin:
-  href: 'https://www.linkedin.com/in/peter-hristov-aa878686/'
+  id: 'peter-hristov-aa878686'
+  href: 'https://www.linkedin.com/'
   title: LinkedIn
   fa-icon: 'fa-linkedin-square'
   
