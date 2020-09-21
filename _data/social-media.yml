@@ -1,0 +1,11 @@
+twitter:
+  id: 'PeterHristov5'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+linkedin:
+  href: 'https://www.linkedin.com/in/peter-hristov-aa878686/'
+  title: LinkedIn
+  fa-icon: 'fa-linkedin-square'
+  
