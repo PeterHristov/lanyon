@@ -14,5 +14,5 @@ url:                 https://peterhristov.github.io/
 baseurl:             ''
 paginate:            5
 
-plugins:
+gems:
   - jekyll-seo-tag
