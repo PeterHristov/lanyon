@@ -13,3 +13,6 @@ twitter_username:    PeterHristov5
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
+
+plugins:
+  - jekyll-seo-tag
