@@ -13,3 +13,7 @@ twitter_username:    PeterHristov5
 url:                 https://peterhristov.github.io/
 baseurl:             ''
 paginate:            5
+
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-179033324-1
